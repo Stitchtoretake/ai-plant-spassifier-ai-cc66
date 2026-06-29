@@ -1,4 +1,4 @@
-# 
+# Automatique AI Plant Species Classifier extensions. Avec optimisation de modèles et réseaux de neurones — optimisé pour des performances maximales.
 
 
 
